@@ -26,6 +26,8 @@ public class InOut{
 // 3
 // ===============
 // [1, 2, 3]
+
+
 public clas Main{
 
     public static int findSum(ArrayList<Integer> list){
@@ -156,7 +158,4 @@ Output:
 ```text
 40
 ```
-
-    
-
 Try it yourself without looking up the answer. After you send your code, I'll review it and then we'll move to **ArrayList methods (`get`, `set`, `remove`) and 2D ArrayLists**.
