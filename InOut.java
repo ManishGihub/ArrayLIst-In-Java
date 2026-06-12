@@ -20,6 +20,7 @@ public class InOut {
         }
     }
 }
+
 // 3
 // 1
 // 2
